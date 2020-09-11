@@ -1,1 +1,1 @@
-env=http://localhost:8000/indez;
+env=http://localhost:8000/index;
