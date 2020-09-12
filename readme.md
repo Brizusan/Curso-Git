@@ -1,4 +1,8 @@
+
+# Version del Curso
+version v2.2.0
 <!-- Cabeceras 1-6 -->
+
 # CABECERAS
 # cabecera H1
 ## cabecera H2
