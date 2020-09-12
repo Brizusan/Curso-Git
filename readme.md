@@ -82,5 +82,31 @@ function $initHighlight(block, cls) {
 }
 export  $initHighlight;
 ```
+# Tablas
+| Nombre | Apellido | Documento | 
+|--------| -------- | --------- |
+| Cesar  | Zubilete | Sanchez   |
+| Cesar  | calderon | Otamendi  |
 
+# Citas
+Esto es una texto referente a una cita que pondremos debajo:
+>Esto es una cita 
+asdasdasd
 
+Esto es otro texto que no se relacionas con la cita anterior.
+>Esto es otra cita.
+
+# Divisores
+Esto es un texto que sera dividido por - .
+
+---
+Esto es otro texto dividido por *.
+***
+Esto es otro texto dividido por _.
+
+___
+# Saltos de Linea
+Esto es nuestro primer parrafo.
+
+Esto es nuestro segundo parrafo.
+Esto es nuestro tercer parrafo.
